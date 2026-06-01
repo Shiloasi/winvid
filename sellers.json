@@ -646,6 +646,12 @@
       "seller_type": "INTERMEDIARY",
       "name": "Digital Turbine",
       "domain": "digitalturbine.com"
+    },
+    {
+      "seller_id": "WV-1001",
+      "seller_type": "PUBLISHER",
+      "domain": "raymobile.games",
+      "name": "Plainsight games LTD"
     }
   ]
 }
